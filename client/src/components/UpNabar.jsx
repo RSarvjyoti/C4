@@ -6,7 +6,7 @@ const UpNabar = () => {
     <header>
         <p>Onebox</p>
         <div>
-            <button></button>
+            <button>toggle</button>
             <select>
                 <option value="">Tim’s Workspace</option>
             </select>
